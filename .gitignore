@@ -1,0 +1,5 @@
+*.pyc
+*checkpoint.ipynb
+data/feedback.csv
+data/occurs.csv
+data/pairs.csv
